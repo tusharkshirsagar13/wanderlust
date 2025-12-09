@@ -1,4 +1,3 @@
-<img width="1440" height="932" alt="Screenshot 2025-12-09 at 1 30 58 PM" src="https://github.com/user-attachments/assets/11739edc-3b64-4f77-8676-2a0e81f0e296" />
 # WANDERLUST
 
 **Wanderlust** is a curated travel and exploration hub built to connect a global community of travelers. Designed as a comprehensive full-stack platform, it allows users to discover unique destinations, share their own travel spots, and engage with others through detailed reviews and ratings. It features secure user authentication, interactive maps for location visualization, and a dynamic, user-driven content feed.
