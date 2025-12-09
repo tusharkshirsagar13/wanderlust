@@ -1,4 +1,4 @@
-
+<img width="1440" height="932" alt="Screenshot 2025-12-09 at 1 30 58 PM" src="https://github.com/user-attachments/assets/11739edc-3b64-4f77-8676-2a0e81f0e296" />
 # WANDERLUST
 
 **Wanderlust** is a curated travel and exploration hub built to connect a global community of travelers. Designed as a comprehensive full-stack platform, it allows users to discover unique destinations, share their own travel spots, and engage with others through detailed reviews and ratings. It features secure user authentication, interactive maps for location visualization, and a dynamic, user-driven content feed.
@@ -60,8 +60,11 @@
   - **MongoDB Atlas** - Cloud-hosted database service
 
 ## 📸 Screenshots
-
-*(Note: Add your actual screenshots here)*
+<img width="1440" height="932" alt="Screenshot 2025-12-09 at 1 30 34 PM" src="https://github.com/user-attachments/assets/0f2390f5-9ca9-4ced-aa72-d27498df6493" />
+<img width="1440" height="932" alt="Screenshot 2025-12-09 at 1 30 51 PM" src="https://github.com/user-attachments/assets/327b0e31-1d24-4721-9867-f2317a1bc3ea" />
+<img width="1440" height="932" alt="Screenshot 2025-12-09 at 1 30 58 PM" src="https://github.com/user-attachments/assets/342459c3-7a95-4c2d-8343-9049e4893770" />
+<img width="1440" height="932" alt="Screenshot 2025-12-09 at 1 36 47 PM" src="https://github.com/user-attachments/assets/92df0bbb-bfdd-4611-a060-147e83e953d5" />
+<img width="1440" height="932" alt="Screenshot 2025-12-09 at 1 40 32 PM" src="https://github.com/user-attachments/assets/19c96a1c-e86c-48f5-bfb8-493f0c9a62c9" />
 
 ## 📋 Requirements
 
