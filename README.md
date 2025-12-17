@@ -2,6 +2,10 @@
 
 **Wanderlust** is a curated travel and exploration hub built to connect a global community of travelers. Designed as a comprehensive full-stack platform, it allows users to discover unique destinations, share their own travel spots, and engage with others through detailed reviews and ratings. It features secure user authentication, interactive maps for location visualization, and a dynamic, user-driven content feed.
 
+## 🚀 Live Demo
+
+**Check out the live application here:** [https://wanderlust-3ygz.onrender.com/](https://wanderlust-3ygz.onrender.com/)
+
 ## ✨ Features
 
 ### 🌍 **Curated Listings**
@@ -32,7 +36,7 @@
 
   - **Responsive Design:** Built with Bootstrap 5 for a mobile-responsive layout.
   - **Starability:** Custom CSS animations for an interactive star rating experience.
-  - **Flash Messages:** Instant feedback for user actions (e.g., "New Listing Created", "Welcome back\!").
+  - **Flash Messages:** Instant feedback for user actions (e.g., "New Listing Created", "Welcome back!").
 
 ## 🛠 Technologies Used
 
@@ -77,7 +81,7 @@
 1.  **Clone the repository:**
 
     ```bash
-    git clone https://github.com/tusharkshirsagar13/wanderlust.git
+    git clone [https://github.com/tusharkshirsagar13/wanderlust.git](https://github.com/tusharkshirsagar13/wanderlust.git)
     cd wanderlust
     ```
 
